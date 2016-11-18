@@ -1,1 +1,17 @@
 /* CSS for Articles */
+
+#first_article {
+	background-color: green;
+}
+#second_article {
+	background-color: blue;
+}
+#third_article {
+	background-color: orange;
+}
+#fourth_article {
+	background-color: yellow;
+}
+#fifth_article {
+	background-color: red;
+}
