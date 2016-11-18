@@ -2,16 +2,46 @@
 
 #first_article {
 	background-color: green;
+	font-family: font-family: 'Slabo 27px', serif;
+	font-size: 1.2em;
+	color: gray;
+	line-height: 1.2em;
+	padding: 3em 5em 0 11em;
+	border-radius: 10em 3%;
 }
 #second_article {
 	background-color: blue;
+	font-family: font-family: 'Oswald', sans-serif;
+	font-size: 1.4em;
+	color: green;
+	line-height: 0.8em;
+	padding: 2em 1em 1.5em 1em;
+	border-radius: 2%;
 }
 #third_article {
 	background-color: orange;
+	font-family: font-family: 'Prociono', serif;
+	font-size: 1.2em;
+	color: red;
+	line-height: 1.4em;
+	padding: 1em 2em 3em 4em;
+	border-radius: 4% 1em;
 }
 #fourth_article {
 	background-color: yellow;
+	font-family: font-family: 'Roboto Condensed', sans-serif;
+	font-size: 1.3em;
+	color: purple;
+	line-height: 1.6em;
+	padding: 6em 4em 2em 0;
+	border-radius: 10% 1em 3rem 5px;
 }
 #fifth_article {
 	background-color: red;
+	font-family: 'Raleway', sans-serif;
+	font-size: 1.1em;
+	color: white;
+	line-height: 1.1em;
+	padding: 1.5em 4em 0 5em;
+	border-radius: 5em 3em 5em 0;
 }
